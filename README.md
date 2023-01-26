@@ -1,0 +1,1 @@
+Food project for vanilla js
